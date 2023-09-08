@@ -1,0 +1,23 @@
+.j7{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.rounded-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 80vw;
+    height: inherit;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+/* margin: 10vh; */
+}
+.root_main{
+
+
+
+}
+.heading{
+    font-size: large;
+    font-weight: bold;
+}

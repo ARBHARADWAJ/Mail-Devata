@@ -1,0 +1,18 @@
+.body{
+  margin-left: 10vw;
+    margin-right: 10vw;
+    height: 85vh;
+    width: 80vw;
+    overflow: scroll;
+
+}
+.root_icon{
+  margin-right: 10vw;
+  margin-bottom: 10vh;
+}
+
+
+@media (min-width:650px) {
+
+  
+}
